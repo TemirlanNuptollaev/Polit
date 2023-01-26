@@ -1,2 +1,0 @@
-# Polit
-site Polit.kz 
